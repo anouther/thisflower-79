@@ -3,7 +3,7 @@
       const c = setTimeout(() => {
         document.body.classList.remove("not-loaded");
 
-        const titles = ('Happy 3d mensive, Sayangku.).split('');
+        const titles = ('Happy 3d mensive, Sayangku.').split('');
         const titleElement = document.getElementById('title');
         let index = 0;
 
